@@ -54,6 +54,8 @@ h1 {
     color: #1F314F;
     font-weight: 700;
     margin-left: 16px;
+    inline-size: 288px;
+    line-height: 27.72px;
 }
 
 p {
@@ -64,6 +66,8 @@ p {
     color: #7D889E;
     font-weight: 400;
     margin-left: 32px;
+    line-height: 18.9px;
+    letter-spacing: 0.19px;
 }
 
 
