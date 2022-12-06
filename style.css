@@ -44,7 +44,7 @@ img {
     margin-top: 16px;
     margin-left: 16px;
     margin-right: 16px;
-    background: url(/assets/images/image-qr-code.png);
+    background: url(assets/images/image-qr-code.png);
     background-size: cover;
 }
 
