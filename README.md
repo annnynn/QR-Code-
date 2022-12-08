@@ -20,6 +20,7 @@ mobile resolution is (365x667px) - Dekstop resolution is (1440x800)
 - How handle size of box pixel-perfect 
 - how to hidde scrollbar (using 100vh) 
 - How to use VS Code Live Server Local Host on Mobile phone
+- Github page 
 
 #Continued development
 - how to use margin and padding with flebox  
