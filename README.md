@@ -1,11 +1,11 @@
 # QR-Code - QR code component resolution
 
 #overview 
-in this challange i created QR-CODE responsive design using mobile first technique, where
+- in this challange i created QR-CODE responsive design using mobile first technique, where
 mobile resolution is (365x667px) - Dekstop resolution is (1440x800)
 
 #my-process
-coding process was pretty funny, it took one day for me to built it all perfect.
+- coding process was pretty funny, it took one day for me to built it all perfect.
 
 #built-with 
 - Semantic HTML5 markup
