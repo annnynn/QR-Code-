@@ -73,18 +73,16 @@ p {
 
 /* Dekstop Responsive */
 
-@media only screen and (min-width: 375px) {
+@media only screen and (max-width: 375px) {
     body {
-        height: 100vh;
         background-color: #d5e1ef;
     }
     #section {
         width: 1440px;
         height: 800px;
-        background-color: #d5e1ef;
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 100vh;
+        max-width: 100%;
     }
 }
