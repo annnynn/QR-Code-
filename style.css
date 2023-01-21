@@ -54,20 +54,3 @@ p {
     letter-spacing: 0.19px;
     padding-bottom: 30px;
 }
-
-
-/* Dekstop Responsive */
-
-@media only screen and (max-width: 375px) {
-    body {
-        background-color: #d5e1ef;
-    }
-    #section {
-        width: 1440px;
-        height: 800px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        max-width: 100%;
-    }
-}
