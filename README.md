@@ -2,16 +2,12 @@
 
 #overview 
 - in this challange i created QR-CODE responsive design using mobile first technique.
-- Dekstop (1440px900px)
-- Mobile (375px667px)
-
 
 #my-process
 - coding process was pretty funny, it took one day for me to built it all perfect.
 
 #built-with 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flebox
 - Mobile-first workflow
 
